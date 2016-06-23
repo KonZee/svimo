@@ -1,0 +1,26 @@
+{
+  "name": "svimo",
+  "version": "1.0.0",
+  "description": "SVG and Image optimization",
+  "main": "gulp.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp-imagemin": "^3.0.1",
+    "gulp-svgmin": "^1.2.2",
+    "imagemin": "^5.2.1",
+    "svgmin": "^0.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KonZee/svimo.git"
+  },
+  "author": "Konstatin Zakablukovsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KonZee/svimo/issues"
+  },
+  "homepage": "https://github.com/KonZee/svimo#readme"
+}
